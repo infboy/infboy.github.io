@@ -29,7 +29,3 @@ I am a doctoral student majoring in Computer Science. Currently, I am enrolled a
 
 
 If you are interested in my research or would like to discuss related topics, feel free to contact me via email at zhangwenbo@henu.edu.cn. I am also very open to invitations for collaboration opportunities or academic exchanges. Thank you for visiting, and I hope my research can contribute to advancements in this field. I look forward to exploring future developments together with fellow professionals and enthusiasts.
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.

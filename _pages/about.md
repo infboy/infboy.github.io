@@ -19,7 +19,9 @@ This project is a key support project of the Twelfth Five-Year Plan, aimed at ad
 
 This is a national major special project where Henan University is mainly responsible for three sub-system modules: "Demonstration Subsystem for the Response of Qinghai-Tibet Plateau to Climate Change," "Demonstration Subsystem for Ecosystem Changes in the Loess Plateau," and "Demonstration Subsystem for Disaster Emergency Monitoring in Tibet.
 
-**[3]. Hainan Dianan Smart Internet Management Service Platform**: This project was commissioned by Henan Yunsihui Education Technology Co., Ltd. to Henan University for the development of an intelligent English online learning system. Based on the assessment of students' vocabulary and problem-solving abilities, it dynamically adjusts students' learning levels through a learning ability model, thereby accurately grasping students' learning situations and pushing corresponding learning content.
+**[3]. Hainan Dianan Smart Internet Management Service Platform**: 
+
+This project was commissioned by Henan Yunsihui Education Technology Co., Ltd. to Henan University for the development of an intelligent English online learning system. Based on the assessment of students' vocabulary and problem-solving abilities, it dynamically adjusts students' learning levels through a learning ability model, thereby accurately grasping students' learning situations and pushing corresponding learning content.
 
 **[4]. Optimization Study of Train Operation Schedules Based on Passenger Demand for Urban Rail Transit Services**: 
 
